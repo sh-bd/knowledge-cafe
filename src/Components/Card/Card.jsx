@@ -16,7 +16,7 @@ const Card = ({ card, addReadingTime, addBookMark }) => {
     return (
         <div className='mb-3'>
             <div className="card">
-                <img src={thumbnail} className="card-img-top" alt="" />
+                <img src={thumbnail} style={{'height':'410px'}} className="card-img-top" alt="" />
                 <div className="card-body">
                     <div className="d-flex justify-content-between align-items-center">
                         <div className="d-flex align-items-center gap-1">
