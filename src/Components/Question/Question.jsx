@@ -4,7 +4,7 @@ const Question = () => {
     return (
         <>
             <header className="mt-4">
-                <h2>Assignment Questions :</h2>
+                <h2 className='fw-semibold'>Assignment Questions:</h2>
             </header>
 
             <main>
@@ -44,7 +44,7 @@ const Question = () => {
                         </h2>
                         <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                             <div className="accordion-body">
-                                <span className='fw-semibold'>useEffect : </span> The useEffect hook in React is used to manage side effects, which are any tasks that must be performed outside of the normal React rendering cycle.
+                                <p><span className='fw-semibold'>useEffect</span> is also used for updating the title of the page, adding event listener, managing a timer, optimizing the  performance of a website and many more con be done using useEffect.</p>
                             </div>
                         </div>
                     </div>
@@ -56,7 +56,7 @@ const Question = () => {
                         </h2>
                         <div id="collapseFour" className="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                             <div className="accordion-body">
-                                <span className='fw-semibold'>React : </span> React is a JavaScript library that helps developers build user interfaces. It uses a virtual DOM to efficiently update the UI, making it faster and more responsive. React components manage their own state and can interact with other components through props.
+                                <span className='fw-semibold'>React: </span> React is a JavaScript library that helps developers build user interfaces. It uses a virtual DOM to efficiently update the UI, making it faster and more responsive. React components manage their own state and can interact with other components through props.
                             </div>
                         </div>
                     </div>
