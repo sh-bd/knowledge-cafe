@@ -4,7 +4,7 @@ const Question = () => {
     return (
         <>
             <header className="mt-4">
-                <h2 className='fw-semibold'>Assignment Questions:</h2>
+                <h2 className='fw-semibold'>Frequently Asked Questions:</h2>
             </header>
 
             <main>
