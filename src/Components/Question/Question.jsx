@@ -56,7 +56,25 @@ const Question = () => {
                         </h2>
                         <div id="collapseFour" className="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                             <div className="accordion-body">
-                                <span className='fw-semibold'>React: </span> React is a JavaScript library that helps developers build user interfaces. It uses a virtual DOM to efficiently update the UI, making it faster and more responsive. React components manage their own state and can interact with other components through props.
+                                <span className='fw-semibold'>React</span> works on mainly 6 basic concepts- <br /><br />
+
+                                i. <span className='fw-semibold'>JSX</span>:
+                                It is a HTML-like markup inside a javascript file. Some of the attributes and properties are different than normal HTML. <br />
+
+                                ii. <span className='fw-semibold'>Components</span>:
+                                Every piece of UI is a components and these are the foundation to building a website. The name always starts with a capital letter. <br />
+
+                                iii. <span className='fw-semibold'>Props</span>:
+                                React components use props to communicate with other each other. <br />
+
+                                iv. <span className='fw-semibold'>useState</span>:
+                                useSate is a react hook that lets the developer add a state variable to your component. <br />
+
+                                v. <span className='fw-semibold'>Event handlers</span>:
+                                When an event handlers updates the state of a component, it triggers a re-render of the component and its children. <br />
+
+                                vi. <span className='fw-semibold'>useEffect</span>:
+                                The useEffect Hook allows you to perform side effects in your components. i.e. fetching data. <br />
                             </div>
                         </div>
                     </div>
