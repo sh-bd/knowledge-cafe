@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Cart = ({ times, texts }) => {
+const Sidebar = ({ times, texts }) => {
     return (
         <div className='position-sticky top-0'>
             <p style={{ 'color': '#6047EC', 'background': '#EFEDFD' }} className='btn  border border-3 fw-bold fs-5 py-3 w-100'>Spent time on read : {times} min</p>
@@ -15,4 +15,4 @@ const Cart = ({ times, texts }) => {
 
 };
 
-export default Cart;
+export default Sidebar;

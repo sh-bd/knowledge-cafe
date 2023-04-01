@@ -2,7 +2,7 @@ import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './Components/Header/Header';
 import Cards from './Components/Cards/Cards';
-import Cart from './Components/Cart/Cart';
+import Sidebar from './Components/Sidebar/Sidebar';
 import { useState } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -39,7 +39,7 @@ const App = () => {
           <Cards addReadingTime={addReadingTime} addBookMark={addBookMark}></Cards>
         </div>
         <div className='col-md-4'>
-          <Cart times={times} texts={texts} ></Cart>
+          <Sidebar times={times} texts={texts} ></Sidebar>
         </div>
       </div>
       <div className='mb-3 mx-md-5 px-md-5 mt-md-3'>
