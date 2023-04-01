@@ -1,43 +1,43 @@
 [
   {
     "id": "01",
-    "Author_name": "Mr. Raju",
-    "Author_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "Blog_title": "How to get your first job as a self-taught programmer",
-    "Blog_image": "https://raw.githubusercontent.com/sh-bd/cdn/main/Images/Rectangle-1.png",
-    "Read_time": 5,
-    "Publish_Date": "Mar 14 (4 Days ago)",
+    "name": "Mr. Raju",
+    "profilePic": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "title": "How to get your first job as a self-taught programmer",
+    "thumbnail": "https://raw.githubusercontent.com/sh-bd/cdn/main/Images/Rectangle-1.png",
+    "time": 5,
+    "date": "Mar 14 (4 Days ago)",
     "tags": "#programming #first_job #self_taught"
   },
   {
     "id": "02",
-    "Author_name": "Mrs. Setara",
-    "Author_image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
-    "Blog_title": "8 Neat C++ Programming Tricks You Should Know",
-    "Blog_image": "https://raw.githubusercontent.com/sh-bd/cdn/main/Images/Rectangle-2.png",
-    "Read_time": 10,
-    "Publish_Date": "Mar 13 (5 Days ago)",
+    "name": "Mrs. Setara",
+    "profilePic": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+    "title": "8 Neat C++ Programming Tricks You Should Know",
+    "thumbnail": "https://raw.githubusercontent.com/sh-bd/cdn/main/Images/Rectangle-2.png",
+    "time": 10,
+    "date": "Mar 13 (5 Days ago)",
     "tags": "#programming #c++ #tips_&_tricks"
   },
   {
     "id": "03",
-    "Author_name": "Mina Mostofa",
-    "Author_image": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
-    "Blog_title": "How to Protect Your Website from Hackers - 11 Security Tips",
-    "Blog_image": "https://raw.githubusercontent.com/sh-bd/cdn/main/Images/Rectangle-3.png",
-    "Read_time": 12,
-    "Publish_Date": "Mar 12 (6 Days ago)",
+    "name": "Mina Mostofa",
+    "profilePic": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
+    "title": "How to Protect Your Website from Hackers - 11 Security Tips",
+    "thumbnail": "https://raw.githubusercontent.com/sh-bd/cdn/main/Images/Rectangle-3.png",
+    "time": 12,
+    "date": "Mar 12 (6 Days ago)",
     "tags": "#security #hacking #protecting"
 
   },
   {
     "id": "04",
-    "Author_name": "Abujor Gifari",
-    "Author_image": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "Blog_title": "5 Things to Consider When Designing and Developing a website",
-    "Blog_image": "https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
-    "Read_time": 25,
-    "Publish_Date": "Mar 11 (7 Days ago)",
+    "name": "Abujor Gifari",
+    "profilePic": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "5 Things to Consider When Designing and Developing a website",
+    "thumbnail": "https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+    "time": 25,
+    "date": "Mar 11 (7 Days ago)",
     "tags": "#planning #developing #designing"
 
   }
